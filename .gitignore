@@ -1,0 +1,10 @@
+# React default public files
+frontend/public/favicon.ico
+frontend/public/logo192.png
+frontend/public/logo512.png
+frontend/public/manifest.json
+frontend/public/robots.txt
+
+# Or ignore entire public folder except index.html
+frontend/public/*
+!frontend/public/index.html
