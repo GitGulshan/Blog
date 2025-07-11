@@ -6,7 +6,6 @@ import PostForm from "../src/components/PostForm";
 
 function App() {
   const [posts, setPosts] = useState([]);
-  const [isDarkMode, setIsDarkMode] = useState(false);
 
   const fetchPosts = () => {
     api
